@@ -1,1 +1,33 @@
- 
+ *{
+    margin: 0;
+    padding: 0;
+
+ }
+.nav-li{
+     
+    margin-right: 20px;
+    list-style: none;
+    display: inline-block;
+
+
+}
+
+
+
+ .nav-li-a{
+    text-decoration: none;
+    color: gray;
+ }
+
+ .header-title{
+    font-weight: 600px;
+
+ }
+
+ .header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 15px 15px 15px;
+    background-color: wheat;
+
+ }
