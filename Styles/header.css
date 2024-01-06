@@ -1,26 +1,23 @@
-.header{
-    display: flex;
-    justify-content: space-between;
-    padding: 15px 15px 15px 15px;
-    background-color: gray;
-   
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 15px 15px 15px;
+  background-color: gray;
 }
 
-.header li{
-    display: inline-block;
-    justify-content: space-between;
-    list-style: none;
-    padding-left: 8px;
+.header li {
+  display: inline-block;
+  justify-content: space-between;
+  list-style: none;
+  padding-left: 8px;
 }
 
-.header li a{
-    font-style: none;
-    text-decoration: none;
-    display: inline;
-    color: black;
-    
-
+.header li a {
+  font-style: none;
+  text-decoration: none;
+  display: inline;
+  color: black;
 }
 
-
-
+.header li:hover {
+}
