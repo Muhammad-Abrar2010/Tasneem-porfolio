@@ -7,9 +7,10 @@
 }
 
 .header li{
-    display: flex;
+    display: inline-block;
     justify-content: space-between;
     list-style: none;
+    padding-left: 8px;
 }
 
 .header li a{
