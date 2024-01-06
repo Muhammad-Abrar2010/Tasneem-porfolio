@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 15px 15px 15px;
+    background-color: gray;
+   
+}
+
+.header li{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.header li a{
+    font-style: none;
+    text-decoration: none;
+    display: inline;
+    color: black;
+    
+
+}
+
+
+
